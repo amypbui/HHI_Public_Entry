@@ -47,3 +47,8 @@ https://orcid.org/0009-0009-4806-1949
 ## Founder
 Amy Pierce Bui
 Founder, Hollow House Institute
+
+## Quick Navigation
+- START_HERE.md
+- README.md
+- ARCHITECTURE.md
